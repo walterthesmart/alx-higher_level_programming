@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # function that does exactly the same as the following Python bytecode
-# created by bright
+# created by Walter
 
 
 def magic_calculation(a, b):

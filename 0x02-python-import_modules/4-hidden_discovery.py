@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # program that prints all the names defined by the compiled module hidden_4.pyc
-# created by bright
+# created by Walter
 
 if __name__ == "__main__":
     """Print all names defined by hidden_4 module."""

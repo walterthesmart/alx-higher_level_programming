@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # program that imports all functions from the file
-# created by bright
+# created by Walter
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # program that prints the result of the addition of all arguments
-# created by bright
+# created by Walter
 
 if __name__ == "__main__":
     """Print the addition of all arguments."""
