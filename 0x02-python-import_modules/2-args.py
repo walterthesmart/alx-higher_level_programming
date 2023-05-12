@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # program that prints the number of and the list of its arguments
-# created by bright
+# created by Walter
 
 if __name__ == "__main__":
     """Print the number of and list of arguments."""

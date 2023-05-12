@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # write a program that does maths
-# created by bright
+# created by Walter
+
 
 if __name__ == "__main__":
     """Print the sum, difference, multiple and quotient of 10 and 5."""
