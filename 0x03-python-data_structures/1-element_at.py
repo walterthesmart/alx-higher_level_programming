@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # function that retrieves an element from a list like in c
-# created by bright
+# created by Walter
 
 
 def element_at(my_list, idx):

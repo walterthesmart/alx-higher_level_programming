@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # function that returns a tuple with the length
 # of a string and its first character
-# created by bright
+# created by Walter
 
 
 def multiple_returns(sentence):

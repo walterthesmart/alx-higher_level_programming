@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # function that finds the biggest integer of a list
-# created by bright
+# created by Walter
 
 
 def max_integer(my_list=[]):

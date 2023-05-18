@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # function that adds 2 tuples.
-# created by bright
+# created by Walter
 
 
 def add_tuple(tuple_a=(), tuple_b=()):

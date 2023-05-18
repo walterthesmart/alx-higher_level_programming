@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # function that prints a matrix of integers.
-# created by bright
+# created by Walter
 
 
 def print_matrix_integer(matrix=[[]]):

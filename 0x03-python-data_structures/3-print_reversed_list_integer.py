@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # function that prints all integers of a list, in reverse order.
-# created by bright
+# created by Walter
 
 
 def print_reversed_list_integer(my_list=[]):
