@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # function that prints an integer.
-# created by bright
+# created by Walter
 
 import sys
 
