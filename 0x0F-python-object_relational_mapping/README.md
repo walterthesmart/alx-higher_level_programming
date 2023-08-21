@@ -1,1 +1,7 @@
-my readme file for 0x0F-python-object_relational_mapping
+0x0F. Python - Object-relational mapping
+Python
+OOP
+SQL
+MySQL
+ORM
+SQLAlchemy
