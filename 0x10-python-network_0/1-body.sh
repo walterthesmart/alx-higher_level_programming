@@ -1,3 +1,4 @@
 #!/bin/bash
-# takes in URL and redirects to new location
+# This sends a GET request to an URL with curl, and display the body of the response
+
 curl -sL "$1"

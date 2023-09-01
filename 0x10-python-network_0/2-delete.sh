@@ -1,3 +1,4 @@
 #!/bin/bash
-# deletes resource at location
-curl -s -X DELETE "$1"
+# This sends a DELETE request to an URL with curl and display the body of the response
+
+curl -sX DELETE "$1"
